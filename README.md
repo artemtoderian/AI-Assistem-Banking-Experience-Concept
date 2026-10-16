@@ -43,7 +43,7 @@ Prototype & handoff 15%.
    (Playwright, mobile viewport, wait for fonts).
 2. Turn the Plan card spec in `handoff/` into a real `PlanCard` component in
    `code/` with the `schedule()` function and its unit tests.
-3. Code Connect templates are in `code/figma/` (`.figma.ts`, parserless). Publish with `npm run figma:publish`; see `code/MAPPING.md`.
+3. Code Connect templates are in `code/figma/` (`.figma.ts`, parserless). Publish with `npm run figma:publish`; see `handoff/MAPPING.md`.
 
 ## Code Connect status
 
@@ -52,4 +52,4 @@ Figma rejected the publish (`send_code_connect_mappings`, 2026-10-16) because Co
 requires a library on an Organization or Enterprise plan, and WIT-Test-Task is not on one.
 `npm run figma:dry-run` in `code/` parses all three templates (PlanCard 25:586, Pill 22:331,
 Button 22:284). To publish, move the file to a qualifying plan, set `FIGMA_ACCESS_TOKEN`, and run
-`npm run figma:publish`. See `code/MAPPING.md`.
+`npm run figma:publish`. See `handoff/MAPPING.md`.

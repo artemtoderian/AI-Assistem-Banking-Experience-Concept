@@ -1,8 +1,8 @@
 # Plan card: Figma → code mapping
 
 Figma: WIT-Test-Task, component set `Plan card`, node `25:586`
-Code: `src/components/PlanCard/PlanCard.tsx` (React + TypeScript)
-Code Connect: `figma/PlanCard.figma.ts` (parserless `.figma.ts` template), plus `Pill.figma.ts` and `Button.figma.ts` for the nested components.
+Code: `code/src/components/PlanCard/PlanCard.tsx` (React + TypeScript)
+Code Connect: `code/figma/PlanCard.figma.ts` (parserless `.figma.ts` template), plus `Pill.figma.ts` and `Button.figma.ts` for the nested components.
 
 ## Properties
 
