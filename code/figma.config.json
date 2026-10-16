@@ -1,0 +1,11 @@
+{
+  "codeConnect": {
+    "include": ["figma/**/*.figma.ts"],
+    "label": "React",
+    "importPaths": {
+      "src/components/PlanCard/*": "@dusk/ui",
+      "src/components/Pill/*": "@dusk/ui",
+      "src/components/Button/*": "@dusk/ui"
+    }
+  }
+}
