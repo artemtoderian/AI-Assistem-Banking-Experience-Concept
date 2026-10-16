@@ -1,8 +1,9 @@
 # WIT — AI Assisted Design Challenge · Concept
 
-Dusk: an AI-native mobile banking concept. A customer states a goal
-("save €3,000 for a holiday next summer"), the assistant proposes a plan,
-the user adjusts it, then reviews and explicitly approves it.
+Dusk: an AI-native mobile banking concept designed and built by Artem Toderian for WIT as a test task. 
+
+A customer states a goal ("save €3,000 for a holiday next summer"), 
+the assistant proposes a plan, the user adjusts it, then reviews and explicitly approves it.
 
 ## Structure
 
